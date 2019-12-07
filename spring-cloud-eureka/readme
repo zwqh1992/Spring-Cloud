@@ -1,0 +1,7 @@
+项目说明：
+1.spring-cloud-eureka-server：单节点服务注册中心
+2.spring-cloud-eureka-server-a：双节点服务注册中心节点a
+3.spring-cloud-eureka-server-b：双节点服务注册中心节点b
+4.spring-cloud-service-provider：服务提供者
+5.spring-cloud-feign-consumer：feign调用服务
+6.spring-cloud-ribbon-consumer：ribbon调用服务
